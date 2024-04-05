@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1033">
+        <Style id="1036">
+            <IconStyle id="1037">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+                <heading>0</heading>
+                <Icon id="1038">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1039">
+                <colorMode>normal</colorMode>
+                <scale>0.4</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1042">
+            <IconStyle id="1043">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+                <heading>0</heading>
+                <Icon id="1044">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1045">
+                <colorMode>normal</colorMode>
+                <scale>0.4</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1048">
+            <IconStyle id="1049">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+                <heading>0</heading>
+                <Icon id="1050">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1051">
+                <colorMode>normal</colorMode>
+                <scale>0.4</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1054">
+            <IconStyle id="1055">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+                <heading>0</heading>
+                <Icon id="1056">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1057">
+                <colorMode>normal</colorMode>
+                <scale>0.4</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1060">
+            <IconStyle id="1061">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+                <heading>0</heading>
+                <Icon id="1062">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1063">
+                <colorMode>normal</colorMode>
+                <scale>0.4</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1066">
+            <IconStyle id="1067">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+                <heading>0</heading>
+                <Icon id="1068">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1069">
+                <colorMode>normal</colorMode>
+                <scale>0.4</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1072">
+            <IconStyle id="1073">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+                <heading>0</heading>
+                <Icon id="1074">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1075">
+                <colorMode>normal</colorMode>
+                <scale>0.4</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1078">
+            <IconStyle id="1079">
+                <colorMode>normal</colorMode>
+                <scale>0.6</scale>
+                <heading>0</heading>
+                <Icon id="1080">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1081">
+                <colorMode>normal</colorMode>
+                <scale>0.4</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1084">
+            <LineStyle id="1085">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>2</width>
+            </LineStyle>
+        </Style>
+        <Placemark id="1035">
+            <name/>
+            <styleUrl>#1036</styleUrl>
+            <Point id="1034">
+                <coordinates>124.349737,9.837456,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1041">
+            <name/>
+            <styleUrl>#1042</styleUrl>
+            <Point id="1040">
+                <coordinates>124.351643,9.837593,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1047">
+            <name/>
+            <styleUrl>#1048</styleUrl>
+            <Point id="1046">
+                <coordinates>124.351603,9.836788,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1053">
+            <name/>
+            <styleUrl>#1054</styleUrl>
+            <Point id="1052">
+                <coordinates>124.350591,9.836684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1059">
+            <name/>
+            <styleUrl>#1060</styleUrl>
+            <Point id="1058">
+                <coordinates>124.350427,9.836874,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1065">
+            <name/>
+            <styleUrl>#1066</styleUrl>
+            <Point id="1064">
+                <coordinates>124.350227,9.836911,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1071">
+            <name/>
+            <styleUrl>#1072</styleUrl>
+            <Point id="1070">
+                <coordinates>124.349898,9.836759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1077">
+            <name/>
+            <styleUrl>#1078</styleUrl>
+            <Point id="1076">
+                <coordinates>124.349737,9.837456 ,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1083">
+            <name/>
+            <styleUrl>#1084</styleUrl>
+            <LineString id="1082">
+                <coordinates>124.349737,9.837456,0.0 124.351643,9.837593,0.0 124.351603,9.836788,0.0 124.350591,9.836684,0.0 124.350427,9.836874,0.0 124.350227,9.836911,0.0 124.349898,9.836759,0.0 124.349737,9.837456 ,0.0</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>
